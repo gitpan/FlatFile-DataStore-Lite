@@ -1,0 +1,6 @@
+Revision history for Perl extension FlatFile::DataStore::Lite.
+
+0.01  Fri Mar 20 15:27:52 2009
+    - original version; created by h2xs 1.23 with options
+        -AX --skip-exporter --use-new-tests -n FlatFile::DataStore::Lite -b 5.8.3
+

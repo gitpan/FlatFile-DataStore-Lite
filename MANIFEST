@@ -1,0 +1,10 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/FlatFile-DataStore-Lite.t
+lib/FlatFile/DataStore/Lite.pm
+lib/FlatFile/DataStore/Lite/Preamble.pm
+lib/FlatFile/DataStore/Lite/Record.pm
+lib/FlatFile/DataStore/Lite/Toc.pm
+META.yml                                 Module meta-data (added by MakeMaker)
